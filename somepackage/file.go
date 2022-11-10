@@ -1,5 +1,5 @@
-package somepackage
+package mathpackage
 
-func PowMeOnce(a int) int {
-	return a*a
+func Add(a int, b int) int {
+  return a + b
 }
